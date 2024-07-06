@@ -1,7 +1,8 @@
 ## Hi there 👋
 **ASIF** here!
 Dedicated Software Engineer well-versed in a spectrum of technologies:
-React JS | ASP.net | Python | Power BI | Tableau | Data Science
+
+**React JS** | **ASP.net** | **Python** | | **Machine learnign** | **Power BI** | **Tableau** | **Data Science**
 
 <!--
 **ASIF679/Asif679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,8 +26,6 @@ Here are some ideas to get you started:
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![Database](https://img.icons8.com/color/48/000000/database.png)
-![Scrapy](https://img.icons8.com/ios-filled/50/000000/scrapy.png)
 ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) 
 ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 ![Data Science](https://img.icons8.com/color/48/000000/artificial-intelligence.png)
