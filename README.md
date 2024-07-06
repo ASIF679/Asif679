@@ -2,7 +2,7 @@
 **ASIF** here!
 Dedicated Software Engineer well-versed in a spectrum of technologies:
 
-**React JS** | **ASP.net** | **Python** | | **Machine learnign** | **Power BI** | **Tableau** | **Data Science**
+**React JS** | **ASP.NET** | **Python** | | **Machine learning** | **Power BI** | **Tableau** | **Data Science**
 
 <!--
 **ASIF679/Asif679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
