@@ -1,5 +1,5 @@
 ## Hi there 👋
-ASIF here!
+**ASIF** here!
 Dedicated Software Engineer well-versed in a spectrum of technologies:
 React JS | ASP.net | Python | Machine Learning | Power BI | Tableau | Web Scraping
 
@@ -23,14 +23,16 @@ Here are some ideas to get you started:
 ![ASP.net](https://img.icons8.com/color/48/000000/asp.png) 
 ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
-![Python](https://img.icons8.com/color/48/000000/python.png)
-![Web Scraping](https://img.icons8.com/color/48/000000/web-scraping.png) 
-![Machine Learning](https://img.icons8.com/color/48/000000/machine-learning.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png) 
+![SQL](https://img.icons8.com/color/48/000000/sql.png)
+![Database](https://img.icons8.com/color/48/000000/database.png)
+![Scrapy](https://img.icons8.com/ios-filled/50/000000/scrapy.png)
+![Web Scraping](https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-web-scraping-seo-flatart-icons-flat-flatarticons.png)
+![Machine Learning](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-machine-learning-computer-science-flaticons-lineal-color-flat-icons.png) 
 ![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) 
 ![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
 
 ### Contact Me
 
-- 📫 How to reach me: 
-  - Email: [asifnawaz679@gmail.com](mailto:asifnawaz679@gmail.com)
-  - LinkedIn: [Asif Nawaz](https://www.linkedin.com/in/asif-nawaz-1093961b1/)
+[![Email](https://img.icons8.com/color/48/000000/gmail.png)](mailto:asifnawaz679@gmail.com) 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/asif-nawaz-1093961b1/)
