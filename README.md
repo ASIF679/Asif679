@@ -2,7 +2,7 @@
 **ASIF** here!  
 Dedicated AI/ML Engineer with a comprehensive skill set in cutting-edge artificial intelligence:
 
-**PYTHON** | **SQL** | **PostgreSQL** | **JavaScript** | **React JS** | **AWS** | **AI**
+**PYTHON** | **SQL** | **PostgreSQL** | **JavaScript** | **React JS** | **AWS** | **AI** | **LangChain** | **Hugging Face**
 
 ### Skills
 
@@ -13,6 +13,8 @@ Dedicated AI/ML Engineer with a comprehensive skill set in cutting-edge artifici
 ![React JS](https://img.icons8.com/color/48/000000/react-native.png)  
 ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)  
 ![AI](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+![LangChain](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+![Hugging Face](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
 
 ### Contact Me
 
