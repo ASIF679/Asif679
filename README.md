@@ -1,8 +1,8 @@
 ## Hi there 👋
 **ASIF** here!
-Dedicated Software Engineer well-versed in a spectrum of technologies:
+Dedicated AI/ML Engineer with a comprehensive skill set in cutting-edge artificial intelligence:
 
-**React JS** | **ASP.NET** | **Python** | | **Machine learning** | **Power BI** | **Tableau** | **Data Science**
+**PYTHON** | **SQL** | **Machine Learning** | | **Deep Learning** | **Power BI** | **Tableau** | **Data Science**
 
 <!--
 **ASIF679/Asif679** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 
 ### Skills
 
-![React JS](https://img.icons8.com/color/48/000000/react-native.png) 
-![HTML](https://img.icons8.com/color/48/000000/html-5.png) 
-![CSS](https://img.icons8.com/color/48/000000/css3.png) 
-![ASP.net](https://img.icons8.com/color/48/000000/asp.png) 
-![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) 
-![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) 
-![Python](https://img.icons8.com/color/48/000000/python.png) 
-![SQL](https://img.icons8.com/color/48/000000/sql.png)
-![Power BI](https://img.icons8.com/color/48/000000/power-bi.png) 
-![Tableau](https://img.icons8.com/color/48/000000/tableau-software.png)
-![Data Science](https://img.icons8.com/color/48/000000/artificial-intelligence.png)
+[Python](https://img.icons8.com/color/48/000000/python.png)  
+[SQL](https://img.icons8.com/color/48/000000/sql.png)  
+[Machine Learning](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+[Deep Learning](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+[LLM](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+[RAG](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+[LangChain](https://img.icons8.com/color/48/000000/artificial-intelligence.png)  
+[JavaScript](https://img.icons8.com/color/48/000000/javascript.png)  
+[React JS](https://img.icons8.com/color/48/000000/react-native.png)  
+[AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png)  
+
 
 ### Contact Me
 
