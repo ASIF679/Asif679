@@ -21,7 +21,7 @@
 <tr>
 <td width="55%" valign="top">
 
-### 🧠 About Me
+###  About Me
 
 ```yaml
 name: Asif Nawaz
@@ -47,17 +47,9 @@ achievements:
 
 </td>
 <td width="45%" valign="top">
-
-### 📊 GitHub Stats
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Shahzaibyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7b2fff&text_color=ffffff&ring_color=00d4ff" />
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahzaibyy&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d4ff&ring=7b2fff&fire=ff6b35&currStreakLabel=00d4ff" />
-
 </td>
 </tr>
 </table>
-
 ---
 
 ## 🚀 What I Build
@@ -128,7 +120,7 @@ achievements:
 <!-- Quote -->
 <div align="center">
 
-### 💬 Engineering Mindset
+### Engineering Mindset
 
 > *"Think Twice Code Once !."*
 >
